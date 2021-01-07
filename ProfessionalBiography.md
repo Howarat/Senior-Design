@@ -18,8 +18,8 @@ Currently in my 5th year of attending the University of Cincinnati for my bachel
 * Scripting
 
 ## Contact Information
-Name: Austin L. Howard-Clark
-Email: howarat@mail.uc.edu
+* Name: Austin L. Howard-Clark
+* Email: howarat@mail.uc.edu
 
 ## Co-op Work Experience
 Honeywell Intelligrated Technical Support Intern (Co-op) August 2017 - Current (January 2021) (5 coop rotations + PT during class semesters)
