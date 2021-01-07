@@ -1,4 +1,4 @@
-## Team Name: Arcadio
+## Team: Arcadio
 ### Members:
 * Austin Howard-Clark (Computer Science)
 * howarat@mail.uc.edu
