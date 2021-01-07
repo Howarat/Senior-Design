@@ -21,4 +21,4 @@
 * I have worked on developing video games as a personal hobby. While trying to show others games I have created, I am often disheartened as they lose interest before the game is launched. I am very interested in being able to quickly draw others attention to games I have created when they come over, and to have a more natural platform available to test the games on. 
 
 ### Project Team Approach to Problem:
-* Being a solo project, I will approach this problem by creating a physical arcade platform for developers to test and show off games they have made on. The platform will have the usual arcade components (bumpers, joysticks, flashing LEDs, coin opt) and will host a local web interface to upload games to and set their controls.
+* Being a solo project, I will approach this problem by creating a physical arcade platform for developers to test and show off games they have made on. The platform will have the usual arcade components (bumpers, joysticks, flashing LEDs, coin operator) and will host a local web interface to upload games to and set their controls.
